@@ -2,25 +2,3 @@ version: v0.1
 testId: 8b2abd55-40f3-4625-9224-b4f7a8436e8e
 displayName: PruebaJMeterAzureLoadTesiting
 testPlan: LoadTestingTest01.jmx
-description: 
-engineInstances: 1
-subnetId: 
-properties:
-  userPropertyFile: 
-configurationFiles:
-failureCriteria:
-  - GetCustomerDetails: 
-autoStop:
-  errorPercentage: 
-  timeWindow: 
-splitAllCSVs: 
-env:
-  - name: 
-    value:
-secrets:
-  - name: 
-    value:
-certificates:
-  - name:
-    value:
-keyVaultReferenceIdentity:
