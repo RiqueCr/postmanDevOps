@@ -1,0 +1,12 @@
+version: v0.1
+testId: 5b557b4b-1353-4529-9c53-5d4354369dba
+displayName: LoadTestSecretsPOC_01
+testPlan: HTTP Request Test Parametros Secretos v3.jmx
+engineInstances: 1
+env:
+  - name: listName
+    value: non-fiction
+  - name: api-key
+    value: 8fhg93xkjd38fhg834jdfgjd
+  - name: page
+    value: 3
